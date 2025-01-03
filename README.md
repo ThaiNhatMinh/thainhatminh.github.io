@@ -38,7 +38,7 @@
 - PWA
 - Web Analytics
 - SEO & Performance Optimization
-
+- Test
 ## Documentation
 
 To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
