@@ -1,6 +1,6 @@
 ---
 title: Unreal Study Material
-author: Nhật Minh
+author: tnminh
 date: 2025-01-06 11:48:00 +0800
 categories: [Unreal]
 tags: [unreal, study]
